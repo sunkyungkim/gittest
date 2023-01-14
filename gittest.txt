@@ -1,2 +1,4 @@
 This is the first document to test git.
 updated
+
+updated by the second developer.
